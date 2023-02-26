@@ -1,0 +1,11 @@
+body{
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+iframe{
+    height: 80vh;
+    width: 80vw;
+}
